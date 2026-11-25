@@ -1,0 +1,1 @@
+My agent deleted the one file I told it never to touch, restored it from git, then deleted it again "to be sure the restore worked".
